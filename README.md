@@ -13,9 +13,9 @@
 5. Release the questionnaire
 
 ## For Students
-1.Use  Cas or OAUth of Hangzhou Dianzi to Login
+1. Use Cas or OAUth of Hangzhou Dianzi to Login
 2. Fill in the necessary personal information
 3. Browse club information
-4.Fill in the registration form
-5.Get notification
+4. Fill in the registration form
+5. Get notification
 6. Fill in the questionnaire
